@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6A1B512A-66AC-42E1-BAA7-1CA6ED229A17"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC2649A8-5CFB-447C-9EB6-35AFEF59B059"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicUIComponents/ViewControllers/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "checkLocaionStatus()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D68B2114-8C53-4C99-810C-23E078BD05E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicUIComponents/ViewControllers/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "772070C1-5CCF-4670-ACA9-EF7473793CC8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicUIComponents/ViewControllers/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "checkLocaionStatus()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DA0A3F1-9275-4822-B95E-D921805E0803"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicUIComponents/ViewControllers/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "requestPermission()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D2A6721-F0B5-4CD5-A355-26B4EEAD7234"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicUIComponents/ViewControllers/WebViewContainerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "WebViewContainerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8D2A6721-F0B5-4CD5-A355-26B4EEAD7234 - 470c47d5b33b80c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasicUIComponents.WebViewContainerViewController.urlString.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "BasicUIComponents"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emredandin/development/ios_egitim/BasicUIComponents/ViewControllers/WebViewContainerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "8D2A6721-F0B5-4CD5-A355-26B4EEAD7234 - 7206dbf3281760ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasicUIComponents.WebViewContainerViewController.urlString.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "BasicUIComponents"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emredandin/development/ios_egitim/BasicUIComponents/ViewControllers/WebViewContainerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "8D2A6721-F0B5-4CD5-A355-26B4EEAD7234 - d540079b07552112"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasicUIComponents.WebViewContainerViewController.urlString.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "BasicUIComponents"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emredandin/development/ios_egitim/BasicUIComponents/ViewControllers/WebViewContainerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8D2A6721-F0B5-4CD5-A355-26B4EEAD7234 - ae16817cbc4391c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasicUIComponents.WebViewContainerViewController.urlString.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BasicUIComponents"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emredandin/development/ios_egitim/BasicUIComponents/ViewControllers/WebViewContainerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8D2A6721-F0B5-4CD5-A355-26B4EEAD7234 - a5cfe63fb0832b96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasicUIComponents.WebViewContainerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BasicUIComponents.WebViewContainerViewController"
+                  moduleName = "BasicUIComponents"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emredandin/development/ios_egitim/BasicUIComponents/ViewControllers/WebViewContainerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "8D2A6721-F0B5-4CD5-A355-26B4EEAD7234 - d5cbbaf0735bb5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasicUIComponents.WebViewContainerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BasicUIComponents.WebViewContainerViewController&gt;"
+                  moduleName = "BasicUIComponents"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emredandin/development/ios_egitim/BasicUIComponents/ViewControllers/WebViewContainerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFFC3883-5F02-4A4E-A77E-2178C171C135"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicUIComponents/ViewControllers/WebViewContainerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
